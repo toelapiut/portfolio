@@ -20,9 +20,7 @@ html{
   height: 100%;
 
 
-  display: flex;/* FIXME:  */
-  posi;/* FIXME:  */
-  justify-content: space-between;///* FIXME:  */
+
 
 
 }
@@ -109,20 +107,21 @@ p{
   height: 80px;
   weight:80px;
   font-size: 40px;
+
 }
-.animation{
-  width: 100px;
+/*.animation{
+  width: 100px;https://github.com/toelapiut/toelapiut.github.io
   height: 100px;
   background-color: red;
   position: relative;
-  /* Safari 4.0 - 8.0 */
+  /* Safari 4.0 - 8.0
   -webkit-animation-name: example;
   -webkit-animation-duration: 5s;
   -webkit-animation-timing-function: linear;
   -webkit-animation-delay: 2s;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-direction: alternate;
-  /* Standarsyntax */
+  /* Standarsyntax
   animation-name: example;
   animation-duration: 5s;
   animation-timing-function: linear;
@@ -131,7 +130,7 @@ p{
   animation-direction: alternate;
 }
 
-/*Safari 4.0 - 8.0*/
+/*Safari 4.0 - 8.0
 @-webkit-keyframes example {
   0%   { left:0px; top:0px;}
   25%  {left:200px; top:0px;}
@@ -140,7 +139,7 @@ p{
   100% {left:0px; top:0px;}
 }
 
-/*Standard syntax*/
+/*Standard syntax
 @keyframes example {
   0%   { left:0px; top:0px;}
   25%  { left:200px; top:0px;}
