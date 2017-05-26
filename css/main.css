@@ -81,13 +81,14 @@ p{
   font-size: 50px;
   justify-content: space-between;
  flex-direction: row-reverse;
- height: 100vh;
+ height: 60px;
  display: flex;
 
 }
 .social-icons .container {
   justify-content: flex-end;
  display: flex;
+ height: 10%;
 }
 .social-icons a{
   color:white;
@@ -108,4 +109,10 @@ p{
   height: 80px;
   weight:80px;
   font-size: 40px;
+}
+.animation{
+  border-style: solid;
+  border-color: red;
+  height: 490px;
+  width: 480px;
 }
