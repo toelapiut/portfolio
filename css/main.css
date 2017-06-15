@@ -18,8 +18,26 @@ html{
   padding: 30px 0;
   position: fixed;
   height: 100%;
+<<<<<<< HEAD
 }
 
+=======
+
+
+
+
+
+}
+/*.logo{
+position: center;
+background-size: contain;
+background-repeat: no-repeat;
+height: 80px;
+padding: 0;
+margin: 0;
+
+}*/
+>>>>>>> 693d27ae27c2c647ba242c0ed5e7e2b5acfaad8d
 .header ul{
   list-style: none;
   margin: 20px 0  ;
@@ -96,3 +114,49 @@ p{
   font-size: 40px;
 
 }
+<<<<<<< HEAD
+=======
+/*.animation{
+  width: 100px;https://github.com/toelapiut/toelapiut.github.io
+  height: 100px;
+  background-color: red;
+  position: relative;
+  /* Safari 4.0 - 8.0
+  -webkit-animation-name: example;
+  -webkit-animation-duration: 5s;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-delay: 2s;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  /* Standarsyntax
+  animation-name: example;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+/*Safari 4.0 - 8.0
+@-webkit-keyframes example {
+  0%   { left:0px; top:0px;}
+  25%  {left:200px; top:0px;}
+  50%  {left:200px; top:200px;}
+  75%  { left:0px; top:200px;}
+  100% {left:0px; top:0px;}
+}
+
+/*Standard syntax
+@keyframes example {
+  0%   { left:0px; top:0px;}
+  25%  { left:200px; top:0px;}
+  50%  { left:200px; top:200px;}
+  75%  { left:0px; top:200px;}
+  100% { left:0px; top:0px;}
+}
+  border-style: solid;
+  border-color: red;
+  height: 490px;
+  width: 495px;*/
+}
+>>>>>>> 693d27ae27c2c647ba242c0ed5e7e2b5acfaad8d
